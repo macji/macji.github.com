@@ -1,0 +1,6 @@
+{
+	"suggest": "http://m2.qiushibaike.com/article/list/suggest?count=30&page=%i",
+	"day": "http://m2.qiushibaike.com/article/list/day?count=30&page=%i",
+	"week": "http://m2.qiushibaike.com/article/list/week?count=30&page=%i",
+	"month":"http://m2.qiushibaike.com/article/list/month?count=30&page=%i"
+}
