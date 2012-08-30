@@ -6,10 +6,10 @@
 </head>
 <body>
 <script>
-    setTimeout(function() {
+    ~function() {
         var keys = document.location.search.match(/\?(.*)/);
         if (keys && keys[1]) {
                window.location.href = decodeURIComponent(keys[1]);
         }
-    }, 500);
+    }();
 </script>
